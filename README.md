@@ -7,3 +7,4 @@ Náš repozitář je prázdný a obsahuje::
 - prázdno
 - nic
 - kys
+- stinky poopy
