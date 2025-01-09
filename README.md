@@ -3,6 +3,7 @@ Tohle je náš první pokus
 ## Podnadpis
 Náš repozitář je prázdný a obsahuje::
 - nic
-- nul
+- nula
 - prázdno
 - nic
+- kys
